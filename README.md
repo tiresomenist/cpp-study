@@ -7,4 +7,6 @@
 
 ##목차
 1.[링크드리스트](./260324LinkedList)-포인터, 스마트포인터
-https://golden-dinghy-b22.notion.site/260324LinkedList-32d9c81dc0d080cd8ee0d021ad29a0ce
+(https://golden-dinghy-b22.notion.site/260324LinkedList-32d9c81dc0d080cd8ee0d021ad29a0ce)
+2.[이진탐색트리](./260325BST)-포인터, 트리
+(https://golden-dinghy-b22.notion.site/260325BST-32e9c81dc0d080d68e56f9cac112a543)
