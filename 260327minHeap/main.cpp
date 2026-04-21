@@ -8,7 +8,7 @@ private:
 	vector<int>heap;
 public:
 	minHeap() {
-		
+
 	}
 	void push(int value) {
 		heap.push_back(value);
@@ -25,7 +25,7 @@ public:
 	}
 	int pop() {
 		if (heap.empty()) return -1;
-		//비었을때 예외처리
+		//비어있을때 예외처리
 		int temp = heap[0];
 		heap[0] = heap.back();
 		heap.pop_back();
