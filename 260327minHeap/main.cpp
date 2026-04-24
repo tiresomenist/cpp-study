@@ -25,7 +25,7 @@ public:
 	}
 	int pop() {
 		if (heap.empty()) return -1;
-		//ºñ¾îÀÖÀ»¶§ ¿¹¿ÜÃ³¸®
+		//ë¹„ì–´ìˆì„ë•Œ ì˜ˆì™¸ì²˜ë¦¬
 		int temp = heap[0];
 		heap[0] = heap.back();
 		heap.pop_back();
