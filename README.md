@@ -36,5 +36,3 @@
 7.[격자위에서의 BFS](./260425BFSOnGrid)-넓이우선탐색
 
 [노션링크](https://golden-dinghy-b22.notion.site/260426BFSOnGrid-34d9c81dc0d0801a8cdfd50464a37906)
-
-7.
